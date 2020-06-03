@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="sling:OrderedFolder">
     <jcr:content
         jcr:primaryType="nt:unstructured"
@@ -7,4 +7,14 @@
         <folderThumbnail/>
     </jcr:content>
     <asset.jpg/>
+    <_x0038_BitSliders-05.png/>
+    <_x0039_46640-b2st-wallpaper-1920x1080-for-iphone-5.jpg/>
+    <dfdsf.png/>
+    <images.png/>
+    <img_avatar2.png/>
+    <logo-contest-1-e1527122253952.png/>
+    <Logo-Maker-for-a-Baseball-Team-with-Tiger.png/>
+    <stacey-roswells.jpg/>
+    <the-simpsons-homer-simpson-beer-typography-wallpaper-preview.jpg/>
+    <the-simpsons-homer-simpson-wallpaper-5950e8ad413add7b0657c87f8041e6fd.jpg/>
 </jcr:root>

@@ -1,0 +1,17 @@
+#demoimage {
+  float: left ;
+}
+
+#demotext {
+  float: right ;
+   margin-right: 26%;
+}
+
+#democontainer {
+
+  max-width: 100% ;
+  margin-left: auto ;
+  margin-right: auto ;
+  border: 1px solid;
+
+}
