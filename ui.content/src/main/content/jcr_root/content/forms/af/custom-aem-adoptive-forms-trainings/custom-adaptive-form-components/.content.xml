@@ -3,7 +3,7 @@
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
-        cq:lastModified="{Date}2020-06-03T20:33:12.857+02:00"
+        cq:lastModified="{Date}2020-06-03T20:47:02.720+02:00"
         cq:lastModifiedBy="admin"
         cq:template="/conf/CustomAdaptiveFormComponent/settings/wcm/templates/custom-adaptive-form-template"
         jcr:language="en"
@@ -124,7 +124,7 @@
                                             <guidebutton
                                                 jcr:created="{Date}2020-06-03T20:21:02.573+02:00"
                                                 jcr:createdBy="admin"
-                                                jcr:lastModified="{Date}2020-06-03T20:21:22.867+02:00"
+                                                jcr:lastModified="{Date}2020-06-03T20:46:48.958+02:00"
                                                 jcr:lastModifiedBy="admin"
                                                 jcr:primaryType="nt:unstructured"
                                                 jcr:title="Button"
@@ -133,8 +133,8 @@
                                                 description1="My Description"
                                                 description7="Sub title two"
                                                 dorExclusion="true"
-                                                fileName="8BitSliders-05.png"
-                                                fileReference="/content/dam/CustomAdaptiveFormComponent/8BitSliders-05.png"
+                                                fileName="AdobeStock_322777229-scaled.jpeg"
+                                                fileReference="/content/dam/CustomAdaptiveFormComponent/AdobeStock_322777229-scaled.jpeg"
                                                 guideNodeClass="guideButton"
                                                 name="button1591208462599"
                                                 textIsRich="[true,true]"
@@ -267,14 +267,14 @@
                                             <guideimage
                                                 jcr:created="{Date}2020-06-03T20:25:35.824+02:00"
                                                 jcr:createdBy="admin"
-                                                jcr:lastModified="{Date}2020-06-03T20:28:55.311+02:00"
+                                                jcr:lastModified="{Date}2020-06-03T20:47:02.671+02:00"
                                                 jcr:lastModifiedBy="admin"
                                                 jcr:primaryType="nt:unstructured"
                                                 jcr:title="Image"
                                                 sling:resourceType="fd/af/components/guideimage"
                                                 altText="Alt Test"
-                                                fileName="8BitSliders-05.png"
-                                                fileReference="/content/dam/CustomAdaptiveFormComponent/8BitSliders-05.png"
+                                                fileName="AdobeStock_322777229-scaled.jpeg"
+                                                fileReference="/content/dam/CustomAdaptiveFormComponent/AdobeStock_322777229-scaled.jpeg"
                                                 guideNodeClass="guideImage"
                                                 name="image1591208735857"/>
                                         </items>

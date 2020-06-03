@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="af331f13-47ad-4c66-9f51-cfc073ed7093">
     <jcr:content
+        cq:name="946640-b2st-wallpaper-1920x1080-for-iphone-5.jpg"
+        cq:parentPath="/content/dam/CustomAdaptiveFormComponent"
         dam:assetState="processed"
         dam:relativePath="CustomAdaptiveFormComponent/946640-b2st-wallpaper-1920x1080-for-iphone-5.jpg"
-        jcr:lastModified="{Date}2020-06-03T20:12:16.904+02:00"
+        jcr:lastModified="{Date}2020-06-03T20:40:15.441+02:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2020-06-03T20:12:16.518+02:00"
+            dam:extracted="{Date}2020-06-03T20:40:15.066+02:00"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -21,9 +24,12 @@
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
             dam:Progressive="no"
-            dam:sha1="f89a2ede5775fe2d6cdd00b0f92b0a26a629f00f"
+            dam:sha1="c69a4cf8253eed9fd41d37ecd743cac974b40078"
             dam:size="{Long}193978"
             dc:format="image/jpeg"
+            dc:modified="{Date}2020-06-03T20:40:15.340+02:00"
+            jcr:lastModified="{Date}2020-06-03T20:40:15.340+02:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             tiff:ImageLength="{Long}1080"

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="678c7508-3493-41a4-8acf-64229c9dc3a1">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="CustomAdaptiveFormComponent/covid-19.jpg"
+        jcr:lastModified="{Date}2020-06-03T20:45:35.530+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2020-06-03T20:45:35.340+02:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="7d30f7676962cc08462f1430c45da57467672a65"
+            dam:size="{Long}88278"
+            dc:format="image/jpeg"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}390"
+            tiff:ImageWidth="{Long}885"
+            xmp:CreatorTool="Adobe Photoshop 21.0 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:FBDDB955574711EAA49F9237133F50B0"
+            xmpMM:InstanceID="xmp.iid:FBDDB954574711EAA49F9237133F50B0"
+            xmpMM:OriginalDocumentID="xmp.did:c15afaa8-03eb-45d5-9fdf-95b0e7f4f33b">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:c15afaa8-03eb-45d5-9fdf-95b0e7f4f33b"
+                stRef:instanceID="xmp.iid:c15afaa8-03eb-45d5-9fdf-95b0e7f4f33b"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

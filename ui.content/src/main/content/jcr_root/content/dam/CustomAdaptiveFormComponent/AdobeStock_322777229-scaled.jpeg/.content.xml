@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="0c9a3d09-0b55-4693-aa3a-4ecf9fabf359">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="CustomAdaptiveFormComponent/AdobeStock_322777229-scaled.jpeg"
+        jcr:lastModified="{Date}2020-06-03T20:45:35.765+02:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2020-06-03T20:45:35.479+02:00"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}4.800000190734863"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}8.533333778381348"
+            dam:Progressive="no"
+            dam:sha1="ef519ddd302b5d56b4f04b8548055b6dbc9b6b68"
+            dam:size="{Long}242387"
+            dc:description="Coronavirus illustration of a virus on a turquoise background 3d render"
+            dc:format="image/jpeg"
+            dc:rights="©evgeniy - stock.adobe.com"
+            dc:subject="[vaccine,incubation,medicine,illustration,isolated on white,green,rna,mutation,risk,virology,microbiology,blood,design,viruses,pandemic,coronavirus,epidemic,spherical,medical,health,particle,flu,3d rendering,corona,china,3d illustration,virus,coronaviridae]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="Coronavirus illustration of a virus on a turquoise background 3d render"
+            exif:ColorSpace="{Long}65535"
+            exif:ComponentsConfiguration="{Long}[1,2,3,0]"
+            exif:ComponentsConfiguration_xmpArrayType="rdf:Seq"
+            exif:ExifVersion="0221"
+            exif:FlashpixVersion="0100"
+            exif:PixelXDimension="{Long}3369"
+            exif:PixelYDimension="{Long}1895"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Coronavirus illustration of a virus on a turquoise background 3d render"
+            photoshop:Country="Russian Federation"
+            photoshop:Credit="evgeniy - stock.adobe.com"
+            photoshop:Source="322777229"
+            prismusagerights:creditLine="[evgeniy - stock.adobe.com]"
+            prismusagerights:creditLine_xmpArrayType="rdf:Bag"
+            tiff:ImageLength="{Long}1440"
+            tiff:ImageWidth="{Long}2560"
+            tiff:Orientation="{Long}1"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:XResolution="300/1"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2020-02-13T19:49:40.000+02:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2017 (Windows)"
+            xmp:MetadataDate="{Date}2020-02-13T21:07:58.000+08:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:d4efaf37-4e60-11ea-bb5a-fc3a498e0e5c"
+            xmpMM:InstanceID="xmp.iid:0dc6b634-ecea-954d-8d6c-1a16196591b5"
+            xmpMM:OriginalDocumentID="xmp.did:dca5e7ba-d06f-534c-936d-7e686470e070"
+            xmp:ModifyDate="{Date}2020-02-13T21:00:51.000+02:00">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}5"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="created"
+                    stEvt:instanceID="xmp.iid:dca5e7ba-d06f-534c-936d-7e686470e070"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2017 (Windows)"
+                    stEvt:when="{Date}2020-02-13T19:49:40.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="converted"
+                    stEvt:parameters="from image/png to image/jpeg"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:c2bf76d6-69cc-8741-99e6-87ef50acf378"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2017 (Windows)"
+                    stEvt:when="{Date}2020-02-13T21:00:51.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:a42f3048-f3ae-c04f-be54-15f0ef61e973"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 11.2"
+                    stEvt:when="{Date}2020-02-13T21:07:58.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:0dc6b634-ecea-954d-8d6c-1a16196591b5"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 11.2.1 (Windows)"
+                    stEvt:when="{Date}2020-02-13T21:07:58.000+08:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

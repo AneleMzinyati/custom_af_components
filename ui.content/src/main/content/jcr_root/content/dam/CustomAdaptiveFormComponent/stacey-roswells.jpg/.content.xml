@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="0a709918-3013-4e24-b832-c9a613f43ceb">
     <jcr:content
+        cq:name="stacey-roswells.jpg"
+        cq:parentPath="/content/dam/CustomAdaptiveFormComponent"
         dam:assetState="processed"
         dam:relativePath="CustomAdaptiveFormComponent/stacey-roswells.jpg"
-        jcr:lastModified="{Date}2020-06-03T20:12:17.715+02:00"
+        jcr:lastModified="{Date}2020-06-03T20:40:15.611+02:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2020-06-03T20:12:16.908+02:00"
+            dam:extracted="{Date}2020-06-03T20:40:14.531+02:00"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -21,9 +24,12 @@
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}69.66666412353516"
             dam:Progressive="no"
-            dam:sha1="31ac6efc2d9db62efd7809759b1c490ac6b6fa24"
+            dam:sha1="e153ff83c4a51b73802409b4ffb9078d0120356d"
             dam:size="{Long}1676172"
             dc:format="image/jpeg"
+            dc:modified="{Date}2020-06-03T20:40:15.448+02:00"
+            jcr:lastModified="{Date}2020-06-03T20:40:15.448+02:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             tiff:ImageLength="{Long}3344"

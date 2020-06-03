@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="fac16300-d703-423e-bfaa-0179d51b03be">
     <jcr:content
+        cq:name="dfdsf.png"
+        cq:parentPath="/content/dam/CustomAdaptiveFormComponent"
         dam:assetState="processed"
         dam:relativePath="CustomAdaptiveFormComponent/dfdsf.png"
-        jcr:lastModified="{Date}2020-06-03T20:12:17.286+02:00"
+        jcr:lastModified="{Date}2020-06-03T20:40:15.623+02:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2020-06-03T20:12:16.554+02:00"
+            dam:extracted="{Date}2020-06-03T20:40:14.990+02:00"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -21,9 +24,12 @@
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
             dam:Progressive="yes"
-            dam:sha1="d2d8b3697bb78ae17c6b2e015b79dc288a820380"
-            dam:size="{Long}127101"
+            dam:sha1="ef8f415caafc8dc4d0a1ff1aaa33f5f2e45fb786"
+            dam:size="{Long}130069"
             dc:format="image/png"
+            dc:modified="{Date}2020-06-03T20:40:14.794+02:00"
+            jcr:lastModified="{Date}2020-06-03T20:40:14.794+02:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             tiff:ImageLength="{Long}800"

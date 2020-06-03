@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:dc="http://purl.org/dc/elements/1.1/"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="19710611-e051-4e59-a3db-0ee01390318e">
     <jcr:content
+        cq:name="the-simpsons-homer-simpson-beer-typography-wallpaper-preview.jpg"
+        cq:parentPath="/content/dam/CustomAdaptiveFormComponent"
         dam:assetState="processed"
         dam:relativePath="CustomAdaptiveFormComponent/the-simpsons-homer-simpson-beer-typography-wallpaper-preview.jpg"
-        jcr:lastModified="{Date}2020-06-03T20:12:17.119+02:00"
+        jcr:lastModified="{Date}2020-06-03T20:40:15.495+02:00"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2020-06-03T20:12:16.922+02:00"
+            dam:extracted="{Date}2020-06-03T20:40:14.897+02:00"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -21,9 +24,12 @@
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
             dam:Progressive="yes"
-            dam:sha1="c6dc021ee96f704c9d4a919e42c30e2690af1ab9"
+            dam:sha1="dc3c225e432c8583d141009d32bb6b1e859a19f4"
             dam:size="{Long}41666"
             dc:format="image/jpeg"
+            dc:modified="{Date}2020-06-03T20:40:15.394+02:00"
+            jcr:lastModified="{Date}2020-06-03T20:40:15.394+02:00"
+            jcr:lastModifiedBy="admin"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"
             tiff:ImageLength="{Long}410"

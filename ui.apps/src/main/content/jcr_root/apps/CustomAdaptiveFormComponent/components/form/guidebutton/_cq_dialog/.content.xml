@@ -107,7 +107,7 @@
                                     name="./description1"/>
                             <description7
                                     jcr:primaryType="nt:unstructured"
-                                    sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                                    sling:resourceType="granite/ui/components/coral/foundation/form/textarea"
                                     fieldLabel="Sub Title"
                                     name="./description7"/>
                             <alt1
@@ -115,6 +115,12 @@
                                     sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                                     fieldLabel="Alternate Text"
                                     name="./altText"/>
+
+                            <checkbox1
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="granite/ui/components/coral/foundation/form/checkbox"
+                                    fieldLabel="Sub Title"
+                                    name="./checkbox1"/>
 
 
                         </items>
