@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/CustomAdaptiveFormComponent" mode="merge"/>
+    <filter root="/content/CustomAdaptiveFormComponent" mode="merge"/>
+    <filter root="/content/dam/CustomAdaptiveFormComponent" mode="merge"/>
+</workspaceFilter>
