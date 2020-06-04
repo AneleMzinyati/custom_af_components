@@ -3,4 +3,6 @@
     <filter root="/conf/CustomAdaptiveFormComponent" mode="merge"/>
     <filter root="/content/CustomAdaptiveFormComponent" mode="merge"/>
     <filter root="/content/dam/CustomAdaptiveFormComponent" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments" mode="merge"/>
+    <filter root="/content/forms/af/custom-aem-adoptive-forms-trainings" mode="merge"/>
 </workspaceFilter>
