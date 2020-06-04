@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
         cq:deviceGroups="[/etc/mobile/groups/responsive]"
-        cq:lastModified="{Date}2020-06-03T20:04:45.888+02:00"
+        cq:lastModified="{Date}2020-06-04T08:29:41.585+02:00"
         cq:lastModifiedBy="admin"
         cq:template="/conf/CustomAdaptiveFormComponent/settings/wcm/templates/custom-adaptive-form-template"
         jcr:primaryType="cq:PageContent"
@@ -21,7 +21,7 @@
                 jcr:title="Adaptive Form Header"
                 sling:resourceType="fd/af/components/guideheader">
                 <guideimage
-                    jcr:lastModified="{Date}2020-06-03T20:04:17.340+02:00"
+                    jcr:lastModified="{Date}2020-06-04T08:29:41.436+02:00"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     jcr:title="Logo"
@@ -29,7 +29,7 @@
                     css="logoImage"
                     enabled="{Boolean}true"
                     fileName="the-simpsons-homer-simpson-wallpaper-5950e8ad413add7b0657c87f8041e6fd.jpg"
-                    fileReference="/content/dam/AEMMaven19/the-simpsons-homer-simpson-wallpaper-5950e8ad413add7b0657c87f8041e6fd.jpg"
+                    fileReference="/content/dam/CustomAdaptiveFormComponent/the-simpsons-homer-simpson-wallpaper-5950e8ad413add7b0657c87f8041e6fd.jpg"
                     guideNodeClass="guideImage"
                     imageRotate="0"
                     name="logoImage"
