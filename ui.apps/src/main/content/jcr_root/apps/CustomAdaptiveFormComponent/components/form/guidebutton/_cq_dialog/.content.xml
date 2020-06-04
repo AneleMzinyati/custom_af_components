@@ -115,12 +115,17 @@
                                     sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
                                     fieldLabel="Alternate Text"
                                     name="./altText"/>
-
-                            <checkbox1
+                            <myCheckbox
                                     jcr:primaryType="nt:unstructured"
-                                    sling:resourceType="granite/ui/components/coral/foundation/form/checkbox"
-                                    fieldLabel="Sub Title"
-                                    name="./checkbox1"/>
+                                    sling:resourceType="granite/ui/components/foundation/form/checkbox"
+                                    text="Check this"
+                                    name="./myCheckbox"
+                                    value="true"/>
+                            <myCheckboxType
+                                    jcr:primaryType="nt:unstructured"
+                                    sling:resourceType="granite/ui/components/foundation/form/hidden"
+                                    name="./myCheckbox@TypeHint"
+                                    value="Boolean"/>
 
 
                         </items>
